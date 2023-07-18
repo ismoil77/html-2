@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#container {
+width: 85%;
+height: 600px;
+margin-left:auto ;
+margin-right: auto;
+}
+.info1{
+width: 24%;
+display: inline-block;
+vertical-align: top;
+margin-top:100px ;
+
+}
+.info2{
+    width: 24%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top:100px ;
+
+    }
+    .info3{
+        width: 24%;
+        display: inline-block;
+        vertical-align: top;
+        margin-top:100px ;
+        }
+        .info4{
+         width: 24%;
+         display: inline-block;
+         vertical-align: top;
+         margin-top:100px ;
+            }
+.info1 img {
+width: 100%;
+height: auto;
+}
+.info2 img {
+width: 100%;
+height: auto;
+}
+.info3 img {
+width: 100%;
+height: auto;
+
+}
+.info4 img {
+width: 100%;
+height: auto;
+}
+.info{
+    
+}
+p {
+    text-align: center;
+    font-size: 15px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: "Karma", sans-serif;
+}
+h3{
+font-family:Georgia, 'Times New Roman', Times, serif;
+letter-spacing: 5px;
+font-weight: 400;
+font-size: 20px;
+text-align: center;
+}
+#slide{
+   
+    width: 1000px;
+    padding-top: 100px;
+}
+.sl1{
+    width: 40px;   
+    height: 40px; 
+    display: inline-block;
+   background-color:white;
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    padding-left: 30px;
+}
+.sl2{
+    margin-top: 200px;
+    color: white;
+    width: 40px;   
+    height: 40px; 
+    display: inline-block;
+    background-color:rgb(0, 0, 0);
+   
+}
+.sl3{
+    margin-top: 200px;
+    
+    width: 40px;   
+    height: 40px; 
+    display: inline-block;
+   background-color:white;
+}
+.sl4{
+    margin-top: 200px;
+    
+    width: 40px;   
+    height: 40px; 
+    display: inline-block;
+   background-color:white;
+}
+.sl5{
+    margin-top: 200px;
+    
+    width: 40px;   
+    height: 40px; 
+    display: inline-block;
+   background-color:white;
+}
+.sl6{
+    margin-top: 200px;
+    
+    width: 40px;   
+    height: 40px; 
+    display: inline-block;
+   background-color:white;
+}
+.sl1:hover{
+   background-color: black;
+   color: white;
+   transition: 0.3s ease-in-out;
+}
+.sl2:hover{
+    background-color: rgb(87, 87, 87);
+    color: rgb(0, 0, 0);
+    transition: 0.3s ease-in-out;
+}
+.sl3:hover{
+    background-color: black;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+.sl4:hover{
+    background-color: black;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+.sl5:hover{
+    background-color: black;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+
+.sl6:hover{
+    background-color: black;
+    color: white;   
+    transition: 0.3s ease-in-out;
+}
